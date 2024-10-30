@@ -1,0 +1,14 @@
+/home/kirill/UdpSocketServer/bin/Debug/net8.0/UdpSocketServer
+/home/kirill/UdpSocketServer/bin/Debug/net8.0/UdpSocketServer.deps.json
+/home/kirill/UdpSocketServer/bin/Debug/net8.0/UdpSocketServer.runtimeconfig.json
+/home/kirill/UdpSocketServer/bin/Debug/net8.0/UdpSocketServer.dll
+/home/kirill/UdpSocketServer/bin/Debug/net8.0/UdpSocketServer.pdb
+/home/kirill/UdpSocketServer/obj/Debug/net8.0/UdpSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/UdpSocketServer/obj/Debug/net8.0/UdpSocketServer.AssemblyInfoInputs.cache
+/home/kirill/UdpSocketServer/obj/Debug/net8.0/UdpSocketServer.AssemblyInfo.cs
+/home/kirill/UdpSocketServer/obj/Debug/net8.0/UdpSocketServer.csproj.CoreCompileInputs.cache
+/home/kirill/UdpSocketServer/obj/Debug/net8.0/UdpSocketServer.dll
+/home/kirill/UdpSocketServer/obj/Debug/net8.0/refint/UdpSocketServer.dll
+/home/kirill/UdpSocketServer/obj/Debug/net8.0/UdpSocketServer.pdb
+/home/kirill/UdpSocketServer/obj/Debug/net8.0/UdpSocketServer.genruntimeconfig.cache
+/home/kirill/UdpSocketServer/obj/Debug/net8.0/ref/UdpSocketServer.dll
