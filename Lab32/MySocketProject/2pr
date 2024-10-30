@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Запускаем сервер
+dotnet run --project Server/Server.csproj &
+
+# Ждем, чтобы сервер успел запуститься
+sleep 1
+
+# Запускаем клиентов
+dotnet run --project Clients/Client1/Client1.csproj &
+dotnet run --project Clients/Client2/Client2.csproj &
+dotnet run --project Clients/Client3/Client3.csproj &
+dotnet run --project Clients/Client4/Client4.csproj &
+dotnet run --project Clients/Client5/Client5.csproj &
+
+# Ожидаем завершения всех клиентов
+wait
+

@@ -1,0 +1,14 @@
+/home/kirill/MySocketProject/Clients/Client3/bin/Debug/net8.0/Client3
+/home/kirill/MySocketProject/Clients/Client3/bin/Debug/net8.0/Client3.deps.json
+/home/kirill/MySocketProject/Clients/Client3/bin/Debug/net8.0/Client3.runtimeconfig.json
+/home/kirill/MySocketProject/Clients/Client3/bin/Debug/net8.0/Client3.dll
+/home/kirill/MySocketProject/Clients/Client3/bin/Debug/net8.0/Client3.pdb
+/home/kirill/MySocketProject/Clients/Client3/obj/Debug/net8.0/Client3.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/MySocketProject/Clients/Client3/obj/Debug/net8.0/Client3.AssemblyInfoInputs.cache
+/home/kirill/MySocketProject/Clients/Client3/obj/Debug/net8.0/Client3.AssemblyInfo.cs
+/home/kirill/MySocketProject/Clients/Client3/obj/Debug/net8.0/Client3.csproj.CoreCompileInputs.cache
+/home/kirill/MySocketProject/Clients/Client3/obj/Debug/net8.0/Client3.dll
+/home/kirill/MySocketProject/Clients/Client3/obj/Debug/net8.0/refint/Client3.dll
+/home/kirill/MySocketProject/Clients/Client3/obj/Debug/net8.0/Client3.pdb
+/home/kirill/MySocketProject/Clients/Client3/obj/Debug/net8.0/Client3.genruntimeconfig.cache
+/home/kirill/MySocketProject/Clients/Client3/obj/Debug/net8.0/ref/Client3.dll

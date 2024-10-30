@@ -1,0 +1,14 @@
+/home/kirill/WebClientProject/WebClient/bin/Debug/net8.0/WebClient
+/home/kirill/WebClientProject/WebClient/bin/Debug/net8.0/WebClient.deps.json
+/home/kirill/WebClientProject/WebClient/bin/Debug/net8.0/WebClient.runtimeconfig.json
+/home/kirill/WebClientProject/WebClient/bin/Debug/net8.0/WebClient.dll
+/home/kirill/WebClientProject/WebClient/bin/Debug/net8.0/WebClient.pdb
+/home/kirill/WebClientProject/WebClient/obj/Debug/net8.0/WebClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/WebClientProject/WebClient/obj/Debug/net8.0/WebClient.AssemblyInfoInputs.cache
+/home/kirill/WebClientProject/WebClient/obj/Debug/net8.0/WebClient.AssemblyInfo.cs
+/home/kirill/WebClientProject/WebClient/obj/Debug/net8.0/WebClient.csproj.CoreCompileInputs.cache
+/home/kirill/WebClientProject/WebClient/obj/Debug/net8.0/WebClient.dll
+/home/kirill/WebClientProject/WebClient/obj/Debug/net8.0/refint/WebClient.dll
+/home/kirill/WebClientProject/WebClient/obj/Debug/net8.0/WebClient.pdb
+/home/kirill/WebClientProject/WebClient/obj/Debug/net8.0/WebClient.genruntimeconfig.cache
+/home/kirill/WebClientProject/WebClient/obj/Debug/net8.0/ref/WebClient.dll

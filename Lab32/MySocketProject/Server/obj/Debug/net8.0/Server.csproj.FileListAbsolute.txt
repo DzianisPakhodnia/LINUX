@@ -1,0 +1,14 @@
+/home/kirill/MySocketProject/Server/bin/Debug/net8.0/Server
+/home/kirill/MySocketProject/Server/bin/Debug/net8.0/Server.deps.json
+/home/kirill/MySocketProject/Server/bin/Debug/net8.0/Server.runtimeconfig.json
+/home/kirill/MySocketProject/Server/bin/Debug/net8.0/Server.dll
+/home/kirill/MySocketProject/Server/bin/Debug/net8.0/Server.pdb
+/home/kirill/MySocketProject/Server/obj/Debug/net8.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/MySocketProject/Server/obj/Debug/net8.0/Server.AssemblyInfoInputs.cache
+/home/kirill/MySocketProject/Server/obj/Debug/net8.0/Server.AssemblyInfo.cs
+/home/kirill/MySocketProject/Server/obj/Debug/net8.0/Server.csproj.CoreCompileInputs.cache
+/home/kirill/MySocketProject/Server/obj/Debug/net8.0/Server.dll
+/home/kirill/MySocketProject/Server/obj/Debug/net8.0/refint/Server.dll
+/home/kirill/MySocketProject/Server/obj/Debug/net8.0/Server.pdb
+/home/kirill/MySocketProject/Server/obj/Debug/net8.0/Server.genruntimeconfig.cache
+/home/kirill/MySocketProject/Server/obj/Debug/net8.0/ref/Server.dll
