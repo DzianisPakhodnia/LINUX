@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+a09b482f1a7ca9fd89ec59de54f76988 ConwayGame/CMakeFiles/ConwayGame
+9b7d82b21a209316a54685817e6536d6 MyMultitaskingApp/CMakeFiles/MyMultitaskingApp
