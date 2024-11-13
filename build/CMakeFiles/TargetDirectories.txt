@@ -1,0 +1,8 @@
+/home/kirill/build/CMakeFiles/edit_cache.dir
+/home/kirill/build/CMakeFiles/rebuild_cache.dir
+/home/kirill/build/MyMultitaskingApp/CMakeFiles/MyMultitaskingApp.dir
+/home/kirill/build/MyMultitaskingApp/CMakeFiles/edit_cache.dir
+/home/kirill/build/MyMultitaskingApp/CMakeFiles/rebuild_cache.dir
+/home/kirill/build/ConwayGame/CMakeFiles/ConwayGame.dir
+/home/kirill/build/ConwayGame/CMakeFiles/edit_cache.dir
+/home/kirill/build/ConwayGame/CMakeFiles/rebuild_cache.dir
